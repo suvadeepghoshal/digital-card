@@ -17,6 +17,12 @@ export const Content = () => {
           {' '}
           Digital Craftsman ( Entrepreneur / Developer / Designer )
         </h4>
+        <a
+          className="content--intro--btn_email"
+          href="mailto: ghoshalsuvadeep594@gmail.com"
+        >
+          Email
+        </a>
       </div>
       <div className="content--text_content">
         <div className="content--text_content--about">
