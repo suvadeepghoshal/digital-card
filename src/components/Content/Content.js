@@ -19,6 +19,7 @@ export const Content = () => {
       value: [
         'Loves to make digital products, ',
         'Universe fantisizer, ',
+        'Educator, ',
         'Travels to forests and moutains, ',
         'Musician - loves to play drums, ',
         'Biking and Running, ',
