@@ -1,6 +1,7 @@
 import React from 'react';
 
 import bannerImage from '../../images/suvadeep-potrait.jpeg';
+import { Content } from '../Content/Content';
 
 export const Banner = () => {
   return (
@@ -15,10 +16,13 @@ export const Banner = () => {
       <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
         <blockquote></blockquote>
         <figcaption className="font-medium">
-          <div className="text-sky-500 dark:text-sky-400">Suvadeep Ghoshal</div>
+          <div className="text-sky-500 dark:text-sky-400 lg:text-lg">
+            Suvadeep Ghoshal
+          </div>
           <div className="text-slate-700 dark:text-slate-500 text-xs md:text-lg lg:text-lg xl:text-xl">
             Digital Craftsman ( Entrepreneur / Developer / Designer )
           </div>
+          <Content />
         </figcaption>
       </div>
     </figure>
