@@ -17,12 +17,12 @@ export const Content = () => {
       key: 2,
       name: 'Interests',
       value: [
-        'Loves to make digital products',
-        'Universe fantisizer',
-        'Travels to forests and moutains',
-        'Musician - loves to play drums',
-        'Biking and Running',
-        'Hanging out with animals'
+        'Loves to make digital products, ',
+        'Universe fantisizer, ',
+        'Travels to forests and moutains, ',
+        'Musician - loves to play drums, ',
+        'Biking and Running, ',
+        'Hanging out with animals.'
       ]
     }
   ];
