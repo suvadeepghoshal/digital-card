@@ -40,7 +40,7 @@ export const Content = () => {
             >
               {content?.name}
             </div>
-            <div className="text-slate-700 dark:text-slate-500 text-xs md:text-lg lg:text-lg xl:text-xl">
+            <div className="text-slate-700 dark:text-slate-500 text-xs sm:text-base md:text-lg lg:text-lg xl:text-xl">
               {content?.value}
             </div>
           </>
