@@ -13,14 +13,16 @@ export const Banner = () => {
         width="384"
         height="512"
       />
-      <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
+      <div className="pt-6 md:p-8 md:text-left space-y-4">
         <blockquote></blockquote>
         <figcaption className="font-medium">
-          <div className="text-sky-500 dark:text-sky-400 sm:text-lg lg:text-xl xl:text-2xl">
-            Suvadeep Ghoshal
-          </div>
-          <div className="text-slate-700 dark:text-slate-500 text-xs sm:text-base md:text-lg lg:text-lg xl:text-xl">
-            Digital Craftsman ( Entrepreneur / Developer / Designer )
+          <div className="text-center">
+            <div className="text-sky-500 dark:text-sky-400 sm:text-lg lg:text-xl xl:text-2xl">
+              Suvadeep Ghoshal
+            </div>
+            <div className="text-slate-700 dark:text-slate-400 text-xs sm:text-base md:text-lg lg:text-lg xl:text-xl">
+              Digital Craftsman ( Entrepreneur / Developer / Designer )
+            </div>
           </div>
           <Content />
         </figcaption>
