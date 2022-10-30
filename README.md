@@ -21,6 +21,7 @@ Depicts a overall of who the author is, his wherebaouts and interests.
 - 📧: ghoshalsuvadeep594gmail.com
 - GitHub: [suvadeepghoshal](https://github.com/suvadeepghoshal)
 - LinkedIn: [Suvadeep Ghoshal](https://www.linkedin.com/in/suvadeep-ghoshal-778426197/)
+- Digital Identity: [Suvadeep Ghoshal](https://suvadeepghoshal-id.vercel.app)
 - Instagram: @suvadeepghoshal
 
 Peace ✌️
