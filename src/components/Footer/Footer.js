@@ -2,7 +2,7 @@ import React from 'react';
 
 export const Footer = () => {
   return (
-    <footer className="text-center bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-500">
+    <footer className="text-center bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-500 pt-4">
       <div className="container px-6 pt-6">
         <div className="flex justify-center mb-6">
           <a
@@ -70,7 +70,7 @@ export const Footer = () => {
           </a>
         </div>
       </div>
-      <div className="text-center p-4">
+      <div className="text-center p-4 text-xs sm:text-base md:text-lg lg:text-lg xl:text-xl">
         &copy; {new Date().getFullYear().toString()} Copyright:{' '}
         <a
           className="text-whitehite"
